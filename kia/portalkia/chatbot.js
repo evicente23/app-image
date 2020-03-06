@@ -10,7 +10,7 @@ var initESW = function(gslbBaseURL) {
   embedded_svc.settings.disabledMinimizedText = 'Agente inactivo'; //(Defaults to Agent Offline)
 
   embedded_svc.settings.loadingText = 'Un momento por favor'; //(Defaults to Loading)
-  embedded_svc.settings.storageDomain = 'http://www.inpsercom.com/'; //(Sets the domain for your deployment so that visitors can navigate subdomains during a chat session)
+  embedded_svc.settings.storageDomain = 'localhost'; //(Sets the domain for your deployment so that visitors can navigate subdomains during a chat session)
 
   embedded_svc.settings.chatbotAvatarImgURL =
     'https://c.na112.content.force.com/sfc/dist/version/renditionDownload?rendition=ORIGINAL_Png&versionId=0683i000001fpjD&operationContext=DELIVERY&contentId=05T3i00000AP7CO&page=0&d=/a/3i000000PO4P/s9DCHsBFpqSbwLq25utHZXTRKjjihzfqkZ7HUhwjL9I&oid=00D3i000000uzPD&dpt=null&viewId=';
