@@ -1,3 +1,4 @@
+alert('bien');
 var initESW = function(gslbBaseURL) {
   embedded_svc.settings.displayHelpButton = true; //Or false
   embedded_svc.settings.language = 'es'; //For example, enter 'en' or 'en-US'
