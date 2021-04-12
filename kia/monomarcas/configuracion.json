@@ -1,1 +1,161 @@
-{"services":{"api_uri":"http://200.63.221.180:8060/api","id_pais":1,"nombre_pais":"ECUADOR","tipo_persona":"NATURAL","tipo_servicio":4,"red_comercial":"KIA","fuente":"WEB","tipo_producto":"VEHICULO LIVIANO","linea_negocio":"NUEVO","tipo_interesado":6},"index":{"name":"MONOMARCA KIA","image":{"pc":null,"mobil":null},"carId":14},"whatsapp":{"phone":"+593995764837","message":"Hola soy Angel"},"routes":[{"form":true,"slide":false,"label":"MONOMARCA KIA","url":"monomarca","color":"#ffffff","text":"#000000","images":[{"pc":"https://i.ibb.co/BZ1RLg2/MONOMARCA-01.jpg","mobil":"https://i.ibb.co/gV9HnGP/monomarca-index-movil-01.jpg"},{"pc":"https://i.ibb.co/fr8236c/MONOMARCA-02.jpg","mobil":"https://i.ibb.co/TT4FHWZ/monomarca-index-movil-02.jpg"},{"pc":"https://i.ibb.co/p0WCL2T/MONOMARCA-03.jpg","mobil":"https://i.ibb.co/4YR78SZ/monomarca-index-movil-03.jpg"}]},{"slide":true,"label":"válidas","url":"validas","color":"#92ff33","text":"#fff","images":[{"pc":"https://picsum.photos/3840/2160?random=1","mobil":"https://picsum.photos/2160/3840?random=1"},{"pc":"https://picsum.photos/2560/1440?random=2","mobil":"https://picsum.photos/1440/2560?random=2"},{"pc":"https://picsum.photos/1920/1080?random=3","mobil":"https://picsum.photos/1080/1920?random=3"},{"pc":"https://picsum.photos/1280/720?random=4","mobil":"https://picsum.photos/720/1280?random=4"},{"pc":"https://picsum.photos/640/360?random=5","mobil":"https://picsum.photos/360/640?random=5"},{"pc":"https://picsum.photos/426/240?random=6","mobil":"https://picsum.photos/240/426?random=6"},{"pc":"https://picsum.photos/3840/2160?random=7","mobil":"https://picsum.photos/2160/3840?random=7"}]},{"slide":true,"label":"autos","url":"autos-123123123","color":"#b8205d","text":"#fff","images":[{"pc":"https://picsum.photos/3840/2160?random=8","mobil":"https://picsum.photos/2160/3840?random=8"},{"pc":"https://picsum.photos/2560/1440?random=9","mobil":"https://picsum.photos/1440/2560?random=9"},{"pc":"https://picsum.photos/1920/1080?random=10","mobil":"https://picsum.photos/1080/1920?random=10"},{"pc":"https://picsum.photos/1280/720?random=11","mobil":"https://picsum.photos/720/1280?random=11"},{"pc":"https://picsum.photos/640/360?random=12","mobil":"https://picsum.photos/360/640?random=12"},{"pc":"https://picsum.photos/426/240?random=13","mobil":"https://picsum.photos/240/426?random=13"},{"pc":"https://picsum.photos/3840/2160?random=14","mobil":"https://picsum.photos/2160/3840?random=14"}]},{"slide":true,"label":"inversion","url":"inversion","color":"#1062ba","text":"#fff","images":[{"pc":"https://picsum.photos/3840/2160?random=15","mobil":"https://picsum.photos/2160/3840?random=15"},{"pc":"https://picsum.photos/2560/1440?random=16","mobil":"https://picsum.photos/1440/2560?random=16"},{"pc":"https://picsum.photos/1920/1080?random=17","mobil":"https://picsum.photos/1080/1920?random=17"},{"pc":"https://picsum.photos/1280/720?random=18","mobil":"https://picsum.photos/720/1280?random=18"},{"pc":"https://picsum.photos/640/360?random=19","mobil":"https://picsum.photos/360/640?random=19"},{"pc":"https://picsum.photos/426/240?random=20","mobil":"https://picsum.photos/240/426?random=20"},{"pc":"https://picsum.photos/3840/2160?random=21","mobil":"https://picsum.photos/2160/3840?random=21"}]}]}
+{
+  "services": {
+    "api_uri": "http://200.63.221.180:8060/api",
+    "id_pais": 1,
+    "nombre_pais": "ECUADOR",
+    "tipo_persona": "NATURAL",
+    "tipo_servicio": 4,
+    "red_comercial": "KIA",
+    "fuente": "WEB",
+    "tipo_producto": "VEHICULO LIVIANO",
+    "linea_negocio": "NUEVO",
+    "tipo_interesado": 6
+  },
+  "index": {
+    "name": "MONOMARCA KIA",
+    "image": {
+      "pc": null,
+      "mobil": null
+    },
+    "carId": 14
+  },
+  "whatsapp": {
+    "phone": "+593995764837",
+    "message": "Hola soy Angel"
+  },
+  "routes": [
+    {
+      "form": true,
+      "slide": false,
+      "label": "MONOMARCA KIA",
+      "url": "monomarca",
+      "color": "#ffffff",
+      "text": "#000000",
+      "images": [
+        {
+          "pc": "https://i.ibb.co/BZ1RLg2/MONOMARCA-01.jpg",
+          "mobil": "https://i.ibb.co/gV9HnGP/monomarca-index-movil-01.jpg"
+        },
+        {
+          "pc": "https://i.ibb.co/fr8236c/MONOMARCA-02.jpg",
+          "mobil": "https://i.ibb.co/TT4FHWZ/monomarca-index-movil-02.jpg"
+        },
+        {
+          "pc": "https://i.ibb.co/p0WCL2T/MONOMARCA-03.jpg",
+          "mobil": "https://i.ibb.co/4YR78SZ/monomarca-index-movil-03.jpg"
+        }
+      ]
+    },
+    {
+      "slide": true,
+      "label": "válidas",
+      "url": "validas",
+      "color": "#92ff33",
+      "text": "#fff",
+      "images": [
+        {
+          "pc": "https://picsum.photos/3840/2160?random=1",
+          "mobil": "https://picsum.photos/2160/3840?random=1"
+        },
+        {
+          "pc": "https://picsum.photos/2560/1440?random=2",
+          "mobil": "https://picsum.photos/1440/2560?random=2"
+        },
+        {
+          "pc": "https://picsum.photos/1920/1080?random=3",
+          "mobil": "https://picsum.photos/1080/1920?random=3"
+        },
+        {
+          "pc": "https://picsum.photos/1280/720?random=4",
+          "mobil": "https://picsum.photos/720/1280?random=4"
+        },
+        {
+          "pc": "https://picsum.photos/640/360?random=5",
+          "mobil": "https://picsum.photos/360/640?random=5"
+        },
+        {
+          "pc": "https://picsum.photos/426/240?random=6",
+          "mobil": "https://picsum.photos/240/426?random=6"
+        },
+        {
+          "pc": "https://picsum.photos/3840/2160?random=7",
+          "mobil": "https://picsum.photos/2160/3840?random=7"
+        }
+      ]
+    },
+    {
+      "slide": true,
+      "label": "autos",
+      "url": "autos-123123123",
+      "color": "#b8205d",
+      "text": "#fff",
+      "images": [
+        {
+          "pc": "https://picsum.photos/3840/2160?random=8",
+          "mobil": "https://picsum.photos/2160/3840?random=8"
+        },
+        {
+          "pc": "https://picsum.photos/2560/1440?random=9",
+          "mobil": "https://picsum.photos/1440/2560?random=9"
+        },
+        {
+          "pc": "https://picsum.photos/1920/1080?random=10",
+          "mobil": "https://picsum.photos/1080/1920?random=10"
+        },
+        {
+          "pc": "https://picsum.photos/1280/720?random=11",
+          "mobil": "https://picsum.photos/720/1280?random=11"
+        },
+        {
+          "pc": "https://picsum.photos/640/360?random=12",
+          "mobil": "https://picsum.photos/360/640?random=12"
+        },
+        {
+          "pc": "https://picsum.photos/426/240?random=13",
+          "mobil": "https://picsum.photos/240/426?random=13"
+        },
+        {
+          "pc": "https://picsum.photos/3840/2160?random=14",
+          "mobil": "https://picsum.photos/2160/3840?random=14"
+        }
+      ]
+    },
+    {
+      "slide": true,
+      "label": "inversion",
+      "url": "inversion",
+      "color": "#1062ba",
+      "text": "#fff",
+      "images": [
+        {
+          "pc": "https://picsum.photos/3840/2160?random=15",
+          "mobil": "https://picsum.photos/2160/3840?random=15"
+        },
+        {
+          "pc": "https://picsum.photos/2560/1440?random=16",
+          "mobil": "https://picsum.photos/1440/2560?random=16"
+        },
+        {
+          "pc": "https://picsum.photos/1920/1080?random=17",
+          "mobil": "https://picsum.photos/1080/1920?random=17"
+        },
+        {
+          "pc": "https://picsum.photos/1280/720?random=18",
+          "mobil": "https://picsum.photos/720/1280?random=18"
+        },
+        {
+          "pc": "https://picsum.photos/640/360?random=19",
+          "mobil": "https://picsum.photos/360/640?random=19"
+        },
+        {
+          "pc": "https://picsum.photos/426/240?random=20",
+          "mobil": "https://picsum.photos/240/426?random=20"
+        },
+        {
+          "pc": "https://picsum.photos/3840/2160?random=21",
+          "mobil": "https://picsum.photos/2160/3840?random=21"
+        }
+      ]
+    }
+  ]
+}
