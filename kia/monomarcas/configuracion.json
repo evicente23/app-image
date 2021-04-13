@@ -11,10 +11,15 @@
     "linea_negocio": "NUEVO",
     "tipo_interesado": 42,
     "tipo_documento": "CEDULA",
-    "fuente_interesado": 8
+    "fuente_interesado": 8,
+    "mensaje": {
+            "html": "<b>Un acesor se contactara contigo</b>",
+            "title": "Cotización"
+    },
   },
   "index": {
     "name": "MONOMARCA KIA",
+    "bgColor": "#DDDEE0",
     "image": {
       "pc": null,
       "mobil": null
