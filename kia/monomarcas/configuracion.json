@@ -23,8 +23,8 @@
     "name": "MONOMARCA KIA",
     "bgColor": "#DDDEE0",
     "image": {
-      "pc": null,
-      "mobil": null
+      "pc": "https://github.com/Inpsercom-IT/app-image/blob/master/kia/monomarcas/pc/0.jpg?raw=true",
+      "mobil": "https://github.com/Inpsercom-IT/app-image/blob/master/kia/monomarcas/movil/5.jpg?raw=true"
     },
     "carId": 14
   },
