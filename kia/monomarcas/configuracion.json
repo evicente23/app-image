@@ -62,7 +62,7 @@
       ]
     },
     {
-      "slide": true,
+      "slide": false,
       "label": "autos",
       "url": "autos-123123123",
       "color": "#b8205d",
