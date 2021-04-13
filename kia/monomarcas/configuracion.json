@@ -14,8 +14,8 @@
     "fuente_interesado": 8,
     "mensaje": {
       "form_title": "COTIZA TU VEHÍCULO",
-      "form_btn": "Cotiza",
-      "title": "Cotización",
+      "form_btn": "Enviar Cotización",
+      "title": "Más Información",
       "html": "<b>Un acesor se contactara contigo</b>"
     }
   },
