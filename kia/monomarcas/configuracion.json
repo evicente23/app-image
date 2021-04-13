@@ -81,39 +81,15 @@
       ]
     },
     {
-      "slide": true,
-      "label": "inversion",
-      "url": "inversion",
+      "slide": false,
+      "label": "Escuela Pilotos",
+      "url": "escuela/pilotos",
       "color": "#1062ba",
       "text": "#fff",
       "images": [
         {
-          "pc": "https://picsum.photos/3840/2160?random=15",
-          "mobil": "https://picsum.photos/2160/3840?random=15"
-        },
-        {
-          "pc": "https://picsum.photos/2560/1440?random=16",
-          "mobil": "https://picsum.photos/1440/2560?random=16"
-        },
-        {
-          "pc": "https://picsum.photos/1920/1080?random=17",
-          "mobil": "https://picsum.photos/1080/1920?random=17"
-        },
-        {
-          "pc": "https://picsum.photos/1280/720?random=18",
-          "mobil": "https://picsum.photos/720/1280?random=18"
-        },
-        {
-          "pc": "https://picsum.photos/640/360?random=19",
-          "mobil": "https://picsum.photos/360/640?random=19"
-        },
-        {
-          "pc": "https://picsum.photos/426/240?random=20",
-          "mobil": "https://picsum.photos/240/426?random=20"
-        },
-        {
-          "pc": "https://picsum.photos/3840/2160?random=21",
-          "mobil": "https://picsum.photos/2160/3840?random=21"
+          "pc": "https://github.com/Inpsercom-IT/app-image/blob/master/kia/monomarcas/pc/4.jpg?raw=true",
+          "mobil": "https://github.com/Inpsercom-IT/app-image/blob/master/kia/monomarcas/movil/4.jpg?raw=true"
         }
       ]
     }
