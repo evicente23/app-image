@@ -91,32 +91,16 @@
       "text": "#fff",
       "images": [
         {
-          "pc": "https://picsum.photos/3840/2160?random=8",
-          "mobil": "https://picsum.photos/2160/3840?random=8"
+          "pc": "https://github.com/Inpsercom-IT/app-image/blob/master/kia/monomarcas/pc/2.jpg?raw=true",
+          "mobil": "https://github.com/Inpsercom-IT/app-image/blob/master/kia/monomarcas/movil/1.jpg?raw=true"
         },
         {
-          "pc": "https://picsum.photos/2560/1440?random=9",
-          "mobil": "https://picsum.photos/1440/2560?random=9"
+          "pc": "https://github.com/Inpsercom-IT/app-image/blob/master/kia/monomarcas/pc/1.jpg?raw=true",
+          "mobil": "https://github.com/Inpsercom-IT/app-image/blob/master/kia/monomarcas/movil/3.jpg?raw=true"
         },
         {
-          "pc": "https://picsum.photos/1920/1080?random=10",
-          "mobil": "https://picsum.photos/1080/1920?random=10"
-        },
-        {
-          "pc": "https://picsum.photos/1280/720?random=11",
-          "mobil": "https://picsum.photos/720/1280?random=11"
-        },
-        {
-          "pc": "https://picsum.photos/640/360?random=12",
-          "mobil": "https://picsum.photos/360/640?random=12"
-        },
-        {
-          "pc": "https://picsum.photos/426/240?random=13",
-          "mobil": "https://picsum.photos/240/426?random=13"
-        },
-        {
-          "pc": "https://picsum.photos/3840/2160?random=14",
-          "mobil": "https://picsum.photos/2160/3840?random=14"
+          "pc": "https://github.com/Inpsercom-IT/app-image/blob/master/kia/monomarcas/pc/3.jpg?raw=true",
+          "mobil": "https://github.com/Inpsercom-IT/app-image/blob/master/kia/monomarcas/movil/2.jpg?raw=true"
         }
       ]
     },
