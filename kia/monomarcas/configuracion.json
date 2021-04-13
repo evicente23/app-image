@@ -47,9 +47,9 @@
       ]
     },
     {
-      "slide": true,
-      "label": "válidas",
-      "url": "validas",
+      "slide": false,
+      "label": "Más Información",
+      "url": "masinformacion",
       "color": "#92ff33",
       "text": "#fff",
       "images": [
