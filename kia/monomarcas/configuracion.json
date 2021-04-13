@@ -13,9 +13,9 @@
     "tipo_documento": "CEDULA",
     "fuente_interesado": 8,
     "mensaje": {
-            "html": "<b>Un acesor se contactara contigo</b>",
-            "title": "Cotización"
-    },
+      "html": "<b>Un acesor se contactara contigo</b>",
+      "title": "Cotización"
+    }
   },
   "index": {
     "name": "MONOMARCA KIA",
