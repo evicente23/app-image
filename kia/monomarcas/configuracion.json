@@ -10,7 +10,8 @@
     "tipo_producto": "VEHICULO LIVIANO",
     "linea_negocio": "NUEVO",
     "tipo_interesado": 42,
-    "tipo_documento": "CEDULA"
+    "tipo_documento": "CEDULA",
+    "fuente_interesado": 8
   },
   "index": {
     "name": "MONOMARCA KIA",
