@@ -13,8 +13,10 @@
     "tipo_documento": "CEDULA",
     "fuente_interesado": 8,
     "mensaje": {
-      "html": "<b>Un acesor se contactara contigo</b>",
-      "title": "Cotización"
+      "form_title": "COTIZA TU VEHÍCULO",
+      "form_btn": "Cotiza",
+      "title": "Cotización",
+      "html": "<b>Un acesor se contactara contigo</b>"
     }
   },
   "index": {
