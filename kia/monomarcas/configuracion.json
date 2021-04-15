@@ -58,6 +58,7 @@
       ]
     },
     {
+      "form": true,
       "slide": false,
       "label": "Más Información",
       "url": "masinformacion",
