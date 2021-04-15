@@ -34,6 +34,7 @@
   },
   "routes": [
     {
+      "form": true,
       "slide": false,
       "label": "MONOMARCA KIA",
       "url": "monomarca",
@@ -60,8 +61,12 @@
       "url": "masinformacion",
       "color": "#ed8936",
       "text": "#fff",
-      "form": true,
-      "images": []
+      "images": [
+        {
+          "pc": "https://github.com/Inpsercom-IT/app-image/blob/master/kia/monomarcas/pc/5.jpg?raw=true",
+          "mobil": "https://github.com/Inpsercom-IT/app-image/blob/master/kia/monomarcas/movil/9.jpg?raw=true"
+        }
+      ]
     },
     {
       "slide": false,
