@@ -21,14 +21,14 @@
   },
   "index": {
     "name": "MONOMARCA KIA",
-    "proId": 1,
-    "ageId": 3,
     "bgColor": "#DDDEE0",
     "image": {
       "pc": "https://github.com/Inpsercom-IT/app-image/blob/master/kia/monomarcas/pc/0.jpg?raw=true",
       "mobil": "https://github.com/Inpsercom-IT/app-image/blob/master/kia/monomarcas/movil/5.jpg?raw=true"
     },
-    "carId": 14
+    "carId": 14,
+    "proId": 1,
+    "ageId": 3,
   },
   "whatsapp": {
     "phone": "+593995764837",
