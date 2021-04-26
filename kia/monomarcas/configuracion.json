@@ -1,6 +1,6 @@
 {
   "services": {
-    "api_uri": "http://200.63.221.180:8060/api",
+    "api_uri": "http://bissqa.inpsercom.com/api",
     "id_pais": 1,
     "nombre_pais": "ECUADOR",
     "tipo_persona": "NATURAL",
