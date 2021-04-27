@@ -1,6 +1,6 @@
 {
   "services": {
-    "api_uri": "http://bissqa.inpsercom.com/api",
+    "api_uri": "http://sgcqa.inpsercom.com/api",
     "id_pais": 1,
     "nombre_pais": "ECUADOR",
     "tipo_persona": "NATURAL",
