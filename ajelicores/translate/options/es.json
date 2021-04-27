@@ -1,5 +1,10 @@
 {
     "home": {
+        "banner": {
+            "title": "Somos expertos en la construcción de marcas de bebidas alcohólicas premium y su comercialización en todo el Ecuador",
+            "content": "",
+            "alt": "AJE LICORES"
+        },
         "about": {
             "title": "Sobre Nosotros",
             "content": "Breve reseña de División licores",
