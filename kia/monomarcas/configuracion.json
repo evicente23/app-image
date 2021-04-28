@@ -20,7 +20,7 @@
     }
   },
   "index": {
-    "name": "MONOMARCA KIA",
+    "label": "MONOMARCA KIA",
     "bgColor": "#DDDEE0",
     "image": {
       "pc": "https://github.com/Inpsercom-IT/app-image/blob/master/kia/monomarcas/pc/0.jpg?raw=true",
