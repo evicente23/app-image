@@ -62,7 +62,7 @@
       "label": "Más Información",
       "url": "masinformacion",
       "color": "#ffffff",
-      "text": "#fff",
+      "text": "#000000",
       "images": [
         {
           "pc": "https://github.com/Inpsercom-IT/app-image/blob/master/kia/monomarcas/pc/5.jpg?raw=true",
@@ -75,7 +75,7 @@
       "label": "autos",
       "url": "autos-123123123",
       "color": "#ffffff",
-      "text": "#fff",
+      "text": "#000000",
       "images": [
         {
           "pc": "https://github.com/Inpsercom-IT/app-image/blob/master/kia/monomarcas/pc/2.jpg?raw=true",
@@ -92,7 +92,7 @@
       "label": "Escuela Pilotos",
       "url": "escuelapilotos",
       "color": "#ffffff",
-      "text": "#fff",
+      "text": "#000000",
       "images": [
         {
           "pc": "https://github.com/Inpsercom-IT/app-image/blob/master/kia/monomarcas/pc/4.jpg?raw=true",
