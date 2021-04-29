@@ -61,7 +61,7 @@
       "slide": false,
       "label": "Más Información",
       "url": "masinformacion",
-      "color": "#ed8936",
+      "color": "#ffffff",
       "text": "#fff",
       "images": [
         {
@@ -74,7 +74,7 @@
       "slide": false,
       "label": "autos",
       "url": "autos-123123123",
-      "color": "#b8205d",
+      "color": "#ffffff",
       "text": "#fff",
       "images": [
         {
@@ -91,7 +91,7 @@
       "slide": false,
       "label": "Escuela Pilotos",
       "url": "escuelapilotos",
-      "color": "#1062ba",
+      "color": "#ffffff",
       "text": "#fff",
       "images": [
         {
