@@ -1,6 +1,6 @@
 {
   "services": {
-    "api_uri": "http://sgcqa.inpsercom.com/api",
+    "api_uri": "/api",
     "id_pais": 1,
     "nombre_pais": "ECUADOR",
     "tipo_persona": "NATURAL",
@@ -9,7 +9,7 @@
     "fuente": "WEB",
     "tipo_producto": "VEHICULO LIVIANO",
     "linea_negocio": "NUEVO",
-    "tipo_interesado": 42,
+    "tipo_interesado": 62,
     "tipo_documento": "CEDULA",
     "fuente_interesado": 8,
     "mensaje": {
