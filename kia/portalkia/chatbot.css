@@ -2,11 +2,11 @@
   z-index: 1001 !important;
 }
 .embeddedServiceHelpButton .helpButton .uiButton {
-  background-color: #b91824;
+  background-color: #05141F;
   font-family: 'Arial', sans-serif;
 }
 .embeddedServiceHelpButton .helpButton .uiButton:focus {
-  outline: 1px solid #b91824;
+  outline: 1px solid #05141F;
 }
 .avatar
 {
