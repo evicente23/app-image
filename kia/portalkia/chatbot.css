@@ -8,3 +8,17 @@
 .embeddedServiceHelpButton .helpButton .uiButton:focus {
   outline: 1px solid #b91824;
 }
+.avatar
+{
+   position: absolute;
+  bottom: 0;
+  width: 32px;
+  height: 32px;
+  border-radius: 50px;
+  background-repeat: no-repeat;
+  border: none;
+  float: left;
+  margin: 0 14px 14px 0;
+  background-position: center;
+  background-size: contain !important;
+}
