@@ -28,44 +28,36 @@
 .embeddedServiceLiveAgentStateChat .endChatContainer .endChatButton {
     background-color: #05141F;
 }
-
 .embeddedServiceSidebarMinimizedDefaultUI .content {
     background-color: #05141F;
 }
 .embeddedServiceLiveAgentStateChatPlaintextMessageDefaultUI.chasitor.plaintextContent {
     background-color: #05141F !important;
 }
-
 /*desea salir del chat*/
 .dialogButtonContainer > .dialog-button-0 {
   background-color:#05141F;
 }
-
 /*color de ventana minimizada*/
 .embeddedServiceSidebarMinimizedDefaultUI .content {
   background-color: #05141F;
 }
-
 /*salir del chat hover*/
 .dialogButtonContainer > .dialog-button-0:hover {
   background-color: #05141F;
 }
-
 /*palabra volver al querer cerrar el chatbot*/
 .dialog-button-1 > .label.bBody {
   color: #05141F;
 }
-
 /*mensaje de bienvenida*/
 .announcement[embeddedService-chatHeaderAnnouncement_chatHeaderAnnouncement] {
   background-color: #05141F;
 }
-
 /*Color del menú en hover */
 .embeddedServiceLiveAgentStateChatInputFooter .footerMenuWrapper .footer-menu .slds-button_icon-container-more:hover {
   color:#05141F;
 }
-
 /*input al hacer foco*/
 .embeddedServiceLiveAgentStateChatInputFooter .chasitorControls .uiInput:focus {
   border-color: #05141F;
