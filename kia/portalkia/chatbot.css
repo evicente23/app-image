@@ -22,3 +22,16 @@
   background-position: center;
   background-size: contain !important;
 }
+.sidebarHeader[embeddedService-chatHeader_chatHeader] {
+    background-color: #05141F;
+}
+.embeddedServiceLiveAgentStateChat .endChatContainer .endChatButton {
+    background-color: #05141F;
+}
+
+.embeddedServiceSidebarMinimizedDefaultUI .content {
+    background-color: #05141F;
+}
+.embeddedServiceLiveAgentStateChatPlaintextMessageDefaultUI.chasitor.plaintextContent {
+    background-color: #05141F !important;
+}
