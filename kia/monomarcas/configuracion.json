@@ -1,6 +1,6 @@
 {
   "services": {
-    "api_uri": "http://monomarcakia.inpsercom-prueba5.ml/api",
+    "api_uri": "https://formulariosqa.inpsercom.com/api",
     "id_pais": 1,
     "nombre_pais": "ECUADOR",
     "tipo_persona": "NATURAL",
