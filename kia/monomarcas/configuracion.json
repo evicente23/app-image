@@ -1,6 +1,6 @@
 {
   "services": {
-    "api_uri": "/api",
+    "api_uri": "https://monomarcas.kiaecuador.com.ec/api",
     "id_pais": 1,
     "nombre_pais": "ECUADOR",
     "tipo_persona": "NATURAL",
