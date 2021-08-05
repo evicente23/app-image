@@ -1,6 +1,6 @@
 {
   "services": {
-    "api_uri": "https://formulariosweb.kiaecuador.com.ec/api",
+    "api_uri": "/api",
     "id_pais": 1,
     "nombre_pais": "ECUADOR",
     "tipo_persona": "NATURAL",
